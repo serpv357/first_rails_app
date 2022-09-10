@@ -1,6 +1,6 @@
 # README
 
-Ruby Version: 2.7.6
+Ruby Version: 3.1.2
 
 Uses postgresql. Ensure postgres installed.
 
