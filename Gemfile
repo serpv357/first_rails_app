@@ -67,3 +67,5 @@ end
 
 gem "capybara"
 
+gem "simplecov", require: false, group: :test
+
